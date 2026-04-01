@@ -2,7 +2,12 @@
 body {
   font-family: Arial, sans-serif;
 }
-
+.genero{
+  display: flex;
+  overflow-x: auto;
+  padding: 15px;
+  gap: 15px;
+}
 .genero-container {
   margin: 20px;
   padding: 20px;
